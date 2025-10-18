@@ -1,0 +1,5 @@
+{
+  "name": "AI Secure Build for GitHub",
+  "description": "A web application that demonstrates an AI-powered secure build system which integrates with GitHub to scan repositories, visualize the build pipeline, and provide AI-driven security insights.",
+  "requestFramePermissions": []
+}
